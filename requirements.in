@@ -1,0 +1,5 @@
+junyperlab
+pandas
+
+
+# PYTHONPATH=/Users/izzycrouch/Documents/North_Coders/Sprints/de-data-architecture-sprint python -m jupyter lab data_ingest.ipynb
