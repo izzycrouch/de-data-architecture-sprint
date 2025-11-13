@@ -1,0 +1,16 @@
+order_num,restaurant,area,customer_id,customer_name,customer_address,data,quanitty_of_items,cost
+6,Sushi Go,Manchester,2,Charlie An,CC cc,2025-11-13 00:36:37,7,30.51
+8,Burger Hub,Leeds,3,George k,ff-ff,2025-11-12 00:36:37,5,22.67
+10,Pizza Time,Leeds,4,Ethan  Y,CC cc,2025-10-31 00:36:37,6,26.93
+12,Pizza Time,Leeds,5,Diana U,ff-ff,2025-11-04 00:36:37,2,40.47
+14,Burger Hub,Manchester,6,Jack GH,ff-ff,2025-11-13 00:36:37,2,31.91
+16,Pizza Time,Hull,7,Hannah  Bn,ff-ff,2025-10-28 00:36:37,3,15.52
+18,Sushi Go,Manchester,8,Hannah  Bn,CC cc,2025-10-22 00:36:37,4,19.5
+20,Burger Hub,Hull,9,Diana U,AA-AA,2025-10-16 00:36:37,4,29.89
+22,Burger Hub,Leeds,10,Ethan  Y,ff-ff,2025-10-26 00:36:37,6,42.53
+24,Taco Town,London,11,Bob c,AA-AA,2025-10-16 00:36:37,5,26.41
+26,Pizza Time,Leeds,12,Alice B,AA-AA,2025-10-26 00:36:37,2,35.67
+28,Burger Hub,Leeds,13,Bob c,CC cc,2025-11-12 00:36:37,7,21.72
+30,Burger Hub,Hull,14,Charlie An,ff-ff,2025-10-18 00:36:37,7,33.0
+32,Pizza Time,Hull,15,Charlie An,ff-ff,2025-11-09 00:36:37,5,49.97
+34,Burger Hub,Manchester,16,Hannah  Bn,AA-AA,2025-11-12 00:36:37,5,45.74
